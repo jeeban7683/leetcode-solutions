@@ -4,7 +4,7 @@ class Solution {
         int right = height.length-1;
         int maxArea = 0;
         while(left < right){
-         int h = Math.min(height[left] ,height[right]);
+         int h = Math.min(height[left] , height[right]);
 
             int width = right - left ;
             int area = h * width;
