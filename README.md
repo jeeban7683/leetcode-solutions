@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jeeban7683/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/jeeban7683/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0162-find-peak-element](https://github.com/jeeban7683/leetcode-solutions/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jeeban7683/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeeban7683/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeeban7683/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/jeeban7683/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
