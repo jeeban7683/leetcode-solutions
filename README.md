@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jeeban7683/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/jeeban7683/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jeeban7683/leetcode-solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/jeeban7683/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/jeeban7683/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jeeban7683/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/jeeban7683/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jeeban7683/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeeban7683/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/jeeban7683/leetcode-solutions/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jeeban7683/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jeeban7683/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/jeeban7683/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
