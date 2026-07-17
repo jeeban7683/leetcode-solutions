@@ -23,11 +23,10 @@ class Solution {
 
     private void dfs(TreeNode root, List<Integer> ans){
         if(root == null){
-            return ;
+            return;
         }
         dfs(root.left , ans);
         ans.add(root.val);
         dfs(root.right , ans);
-
     }
     }
