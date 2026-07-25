@@ -14,9 +14,9 @@ class Solution {
         return head;
     }
 
-        ListNode slow = head;
-        ListNode fast = head;
-        ListNode prev = null;
+    ListNode slow = head;
+    ListNode fast = head;
+    ListNode prev = null;
 
         while(fast!=null && fast.next!=null){
         prev = slow;
@@ -25,14 +25,14 @@ class Solution {
         }
         prev.next = null;
         
-        ListNode left = sortList(head);
-        ListNode right = sortList(slow);
+    ListNode left = sortList(head);
+    ListNode right = sortList(slow);
 return mergeList(left,right);
     }
 public ListNode mergeList(ListNode left , ListNode right){
  
-      ListNode dummy = new ListNode(0);
-      ListNode tail = dummy;
+    ListNode dummy = new ListNode(0);
+    ListNode tail = dummy;
 
      while(left !=null && right!= null){
 
