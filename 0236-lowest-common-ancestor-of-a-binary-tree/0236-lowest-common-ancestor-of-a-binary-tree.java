@@ -14,15 +14,16 @@ class Solution {
     }
     public TreeNode helper(TreeNode root, TreeNode p, TreeNode q){
 
- if(root == null){
+    if(root == null){
             return root;
         }
+        if (root == p || root == q) {
+       return root;
+    }
     TreeNode left = helper(root.left, p,q );
     TreeNode right = helper(root.right, p,q);
 
- if (root == p || root == q) {
-       return root;
-    }
+ 
 
     if(left == null && right == null){
         return null;
