@@ -22,10 +22,10 @@ class Solution {
         // Current prefix sum
         currentSum += root.val;
 
-        // Count paths ending at this node
+        // Count paths ending at this node check the currentSum - target is present or not if yes count ++
         int count = prefix.getOrDefault(currentSum - target, 0);
 
-        // Add current prefix sum
+        // Add current prefix sum into the map
         prefix.put(currentSum,
                    prefix.getOrDefault(currentSum, 0) + 1);
 
@@ -33,7 +33,7 @@ class Solution {
         count += dfs(root.left, currentSum, target, prefix);
         count += dfs(root.right, currentSum, target, prefix);
 
-        // Backtrack
+        // Backtrack after geetin the null and remove the current sum from map 
         prefix.put(currentSum, prefix.get(currentSum) - 1);
 
         return count;
