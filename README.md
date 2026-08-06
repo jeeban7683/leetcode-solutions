@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jeeban7683/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jeeban7683/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/jeeban7683/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/jeeban7683/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jeeban7683/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Binary Search
 |  |
@@ -54,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jeeban7683/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/jeeban7683/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/jeeban7683/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/jeeban7683/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeeban7683/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/jeeban7683/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Greedy
 |  |
 | ------- |
