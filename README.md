@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/jeeban7683/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/jeeban7683/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/jeeban7683/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/jeeban7683/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/jeeban7683/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/jeeban7683/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/jeeban7683/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/jeeban7683/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/jeeban7683/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/jeeban7683/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/jeeban7683/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/jeeban7683/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/jeeban7683/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/jeeban7683/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jeeban7683/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
 |  |
