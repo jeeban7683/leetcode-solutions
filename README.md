@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jeeban7683/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/jeeban7683/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jeeban7683/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Stack
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/jeeban7683/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/jeeban7683/leetcode-solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/jeeban7683/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/jeeban7683/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jeeban7683/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Monotonic Stack
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jeeban7683/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jeeban7683/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
