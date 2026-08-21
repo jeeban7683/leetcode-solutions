@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jeeban7683/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jeeban7683/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/jeeban7683/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/jeeban7683/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/jeeban7683/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jeeban7683/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jeeban7683/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jeeban7683/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jeeban7683/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jeeban7683/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/jeeban7683/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/jeeban7683/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jeeban7683/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jeeban7683/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/jeeban7683/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jeeban7683/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Linked List
 |  |
