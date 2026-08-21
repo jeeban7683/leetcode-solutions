@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jeeban7683/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jeeban7683/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/jeeban7683/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/jeeban7683/leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/jeeban7683/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeeban7683/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jeeban7683/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeeban7683/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/jeeban7683/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/jeeban7683/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/jeeban7683/leetcode-solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/jeeban7683/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/jeeban7683/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0844-backspace-string-compare](https://github.com/jeeban7683/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jeeban7683/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/jeeban7683/leetcode-solutions/tree/master/0179-largest-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jeeban7683/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jeeban7683/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/jeeban7683/leetcode-solutions/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/jeeban7683/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jeeban7683/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/jeeban7683/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
