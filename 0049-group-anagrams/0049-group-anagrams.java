@@ -1,28 +1,31 @@
-class Solution {
-    public List<List<String>> groupAnagrams(String[] strs) {
-        HashMap<String ,List<String>> map = new HashMap<>();
+class Solution { 
+    public List<List<String>> groupAnagrams(String[] strs) { 
 
-        for(String str : strs){
-            String key = sortString(str);
+        HashMap<String, List<String>> map = new HashMap<>(); 
 
-            map.putIfAbsent(key , new ArrayList<>());
-            map.get(key).add(str);
-        }
+        for (String str : strs) { 
+            String key = sortString(str); 
 
-        return new ArrayList<>(map.values());
-    }
+            map.putIfAbsent(key, new ArrayList<>()); 
+            map.get(key).add(str); 
+        } 
 
-        public String sortString(String str){
-            char arr[] = str.toCharArray();
-        for(int i=0;i<arr.length;i++){
-            for(int j=i+1;j<arr.length;j++){
-                if(arr[i] > arr[j]){
-                    char temp = arr[i];
-                    arr[i] = arr[j];
-                    arr[j] = temp;
-                }
-            }
-        }
-        return new String(arr);
-    }
+        return new ArrayList<>(map.values()); 
+    } 
+
+    private String sortString(String str) { 
+        char[] arr = str.toCharArray(); 
+
+        for (int i = 0; i < arr.length; i++) { 
+            for (int j = i + 1; j < arr.length; j++) { 
+                if (arr[i] > arr[j]) { 
+                    char temp = arr[i]; 
+                    arr[i] = arr[j]; 
+                    arr[j] = temp; 
+                } 
+            } 
+        } 
+
+        return new String(arr); 
+    } 
 }
