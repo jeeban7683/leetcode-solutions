@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jeeban7683/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jeeban7683/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jeeban7683/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jeeban7683/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/jeeban7683/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/jeeban7683/leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/jeeban7683/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jeeban7683/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeeban7683/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jeeban7683/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jeeban7683/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/jeeban7683/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/jeeban7683/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jeeban7683/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jeeban7683/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jeeban7683/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/jeeban7683/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jeeban7683/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jeeban7683/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jeeban7683/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Monotonic Stack
